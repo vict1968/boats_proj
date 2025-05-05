@@ -1,0 +1,137 @@
+/* CSS Document */
+body{background-image:url(fon.gif)}
+body,td,th{font-family:Verdana, Arial, Helvetica, sans-serif;font-size:15px}
+img {max-width:100%;height:auto;width:auto\9; /* для ie8 */ width: auto; /* for ie 8 */}
+#wrapper{max-width:960px;margin:1px auto;clear:both;}
+#header{padding:10px;background:#3D81EE;clear:both;}
+#verhcontent{width:98,5%;padding:1.2%;clear:both;background:#3D81EE;}
+#lang{float:right;}
+#clear{clear:left;}
+#cont{max-width:960px;clear:both;border:#3D81EE 1px solid;background:#FFFFFF;}
+#content{width:62%;float:right;background:#FFFFFF;padding:1%;}
+#sidebar{width:34%;float:left;background:#FFFFFF;padding:1%;}
+#footer{background:#3D81EE;padding:1%;}
+.ftr{float:left;width:75%;vertical-align:bottom;}
+.ftr-2{float:right;width:10%;text-align:right;}
+.ftr-3{float:right;width:10%;text-align:right;}
+.ugl{border-radius:10px; -moz-border-radius: 10px; -webkit-border-radius: 10px;}
+.ugl-3{border-radius:10px 10px 0px 0px; -moz-border-radius: 10px 10px 0px 0px; -webkit-border-radius: 10px 10px 0px 0px;}
+.ugl-4{border-radius:0px 0px 10px 10px; -moz-border-radius: 0px 0px 10px 10px; -webkit-border-radius: 0px 0px 10px 10px;}
+#market{max-width:800px;text-align:center;margin:0 auto;clear:both;padding:1%;}
+#razryv{text-align:center;height:20px;clear:both;}
+#razryv-2{text-align:center;clear:both;}
+#logo{width:20%;padding:1%;float:left;}
+#bnr{width:70%;padding:1%;float:right;text-align:center;}
+a.link0{color:#0000FF;font-weight:bold}
+a.link-m{color:#0000FF;font-weight:bold;display:block}
+a.link1{color:#0000FF}
+a:hover.link0{color:#FF0000}
+a:hover.link1{color:#FF0000}
+a.link2{color:#000000;text-decoration:none}
+a.link22{color:#FFFFFF;text-decoration:none;display:block;font-size:12px}
+a:hover.link22{color:#000000;text-decoration:underline}
+a.linkblack{color:#000000;font-weight:bold}
+a:hover.linkblack{color:#FF0000;font-weight:bold}
+a.link3{color:#FFFFFF;text-decoration:none}
+a.link4{color:#FFFFFF}
+a:hover.link4{color:#FF0000}
+.stylelinklink{font-size:12px;color:#FFFFFF}
+a.linklink{color:#FFFFFF;text-decoration:none;font-size:12px}
+a:hover.linklink{color:#000000;text-decoration:underline}
+a.link_to_link{color:#FFFFFF;display:block}
+a:hover.link_to_link{color:#000000}
+.clsA{font-size:14px;font-weight:bold;font-family:Tahoma;color:#FFFFFF}
+.clsB{font-size:14px;font-weight:bold;font-family:Tahoma;color:#000000}
+.style31{font-size:15px;color:#000000;font-family:Geneva, Arial, Helvetica, sans-serif}
+.style31b{font-size:15px;color:#000000;font-family:Geneva, Arial, Helvetica, sans-serif;font-weight:bold}
+.style38{font-size:15px;color:#0000FF;font-family:Geneva, Arial, Helvetica, sans-serif;font-weight:bold}
+a:hover.style38{color:#FF0000}
+.stylesbskr{font-size:15px;color:#0000FF;font-family:Geneva, Arial, Helvetica, sans-serif;font-weight:bold}
+.zagolovok1{font-size:18px;color:#FFFFFF;font-family:Geneva, Arial, Helvetica, sans-serif}
+.style47{color:#FFFFFF}
+.style48{color:#FFFFFF;font-weight:bold}
+.style47line{color:#000000;text-decoration:underline}
+h1{font-size:22px;color:#0000FF;text-align:center}
+h2{font-size:18px;color:#000000;font-family:Verdana, Arial, Helvetica, sans-serif}
+h3{font-size:16px;color:#000000;font-family:Verdana, Arial, Helvetica, sans-serif}
+.zagolovok2bl{font-size:18px;color:#0000FF}
+.zagolovok-h2{font-size:18px;color:#000000;font-family:Verdana, Arial, Helvetica, sans-serif}
+.zagolovok-h3{font-size:16px;color:#0000FF;font-family:Verdana, Arial, Helvetica, sans-serif}
+.zagolovok-h4{font-size:15px;color:#000000;font-family:Verdana, Arial, Helvetica, sans-serif}
+.style-b{font-weight:bold}
+.style49{color:#000000}
+.style50{color:#FF0000}
+.style51{color:#0000FF;font-weight:bold}
+.style55{font-family:Tahoma;font-size:15px;font-weight:bold;color:#333333}
+.style9{font-size:22px;font-weight:bold;color:#0000FF}
+.style10{color:#333333;font-size:14px}
+.style11{font-size:14px;color:#333333;font-weight:bold}
+.navigation{border-top-width:0px;border-left-width:0px;border-bottom-width:0px;color:#636363;border-right-width:0px}
+.navigation A:link{border-right:#e0e0e0 1px solid;padding-right:6px;border-top:#e0e0e0 1px solid;padding-left:6px;font-size:14px;padding-bottom:3px;border-left:#e0e0e0 1px solid;color:#636363;padding-top:3px;border-bottom:#e0e0e0 1px solid;background-color:#f9f9f9;text-decoration:none}
+.navigation A:visited{border-right:#e0e0e0 1px solid;padding-right:6px;border-top:#e0e0e0 1px solid;padding-left:6px;font-size:14px;padding-bottom:3px;border-left:#e0e0e0 1px solid;color:#636363;padding-top:3px;border-bottom:#e0e0e0 1px solid;background-color:#f9f9f9;text-decoration:none}
+.navigation A:active{border-right:#e0e0e0 1px solid;padding-right:6px;border-top:#e0e0e0 1px solid;padding-left:6px;font-size:14px;padding-bottom:3px;border-left:#e0e0e0 1px solid;color:#636363;padding-top:3px;border-bottom:#e0e0e0 1px solid;background-color:#f9f9f9;text-decoration:none}
+.navigation A:hover{border-left-color:#e0e0e0;border-bottom-color:#e0e0e0;color:#ffffff;border-top-color:#e0e0e0;background-color:#3D81EE;border-right-color:#e0e0e0}
+.navigation SPAN{border-right:#e0e0e0 1px solid;padding-right:6px;border-top:#e0e0e0 1px solid;padding-left:6px;font-size:14px;padding-bottom:3px;border-left:#e0e0e0 1px solid;color:#ffffff;padding-top:3px;border-bottom:#e0e0e0 1px solid;background-color:#3D81EE;text-decoration:none}
+table.tab2 tr:hover{background:#F3F8FE}
+.table_blue{border-bottom:#3D81EE 1px solid;border-top:#3D81EE 1px solid;border-left:#3D81EE 1px solid;border-right:#3D81EE 1px solid}
+.table_d{border-bottom:#E0E0F7 1px solid;border-left:#E0E0F7 1px solid}
+.table_dr{border-bottom:#E0E0F7 1px solid;border-right:#E0E0F7 1px solid}
+.table_dn{border-bottom:#E0E0F7 1px solid;border-left:#E0E0F7 1px solid;border-right:#E0E0F7 1px solid}
+.table_center{border-bottom:#E0E0F7 1px solid}
+.table_gray{border:#E0E0F7 1px solid}
+table.t_example{background-color:#E0E0F7;}
+.t_example tr{background-color:#FFFFFF}
+table.t_example tr:hover{background:#F3F8FE}
+.perenos{overflow-wrap:break-all;word-break:break-all}
+.style-it{font-style:italic}
+table.tab3 tr:hover{background:#E0E0F7}
+a:hover.tab3{background:#F3F8FE}
+.table-bl{display:block}
+.table-link {background-color:#FFFFFF}
+.table-link img {border: 1px solid #E0E0F7}
+.table-link td:hover {background:#F3F8FE}
+.table-link td a{display:block;padding:10px}
+.lin{border-bottom:#3D81EE 1px solid;padding-right:7px;padding-top:7px;padding-bottom:7px}
+a.link7{background-color:#F3F8FE;padding:2px 2px 4px;color:#0000FF;font-weight:bold;font-family:Tahoma;font-size:15px}
+a:hover.link7{color:#FF0000}
+.ln{border-bottom:#3D81EE 1px solid}
+.ln img {border: 1px solid #FFFFFF}
+.line {border-bottom: 1px solid #3D81EE; margin: 0 30px}
+.nav a:link{font-size:14px;padding:1px 4px;background-color:#3D81EE;color:#FFFFFF;text-decoration:none}
+.nav a:visited{color:#ffffff;padding:1px 4px;text-decoration:none}
+.nav a:hover{color:#000000;padding:1px 4px;background-color:#ffffff;text-decoration:none}
+.nav span{font-size:14px;padding:1px 4px;background-color:#FFFFFF;border:#3D81EE 1px solid;text-decoration:none}
+.video-responsive {position:relative;padding-bottom:56.25%;padding-top:30px;height:0;overflow:hidden;}
+.video-responsive iframe,
+.video-responsive object,
+.video-responsive embed {
+position: absolute;top: 0;left: 0;width: 100%;height: 100%;}
+@media only screen and (min-width : 1250px),
+only screen and (min-device-width : 1250px){
+#cont{max-width:1200px;clear:both;border:#3D81EE 1px solid;background:#FFFFFF;}
+#wrapper{max-width:1200px;margin:1px auto;clear:both;}
+}
+@media only screen and (max-width : 920px),
+only screen and (max-device-width : 920px){
+	#logo{width:96%;text-align:center;}
+	#bnr{width:98%;text-align:center;overflow:auto}
+	#content{width:96%;}
+	#sidebar{width:96%;clear:both;}
+	#footer{clear:both;}
+	.ftr{float:none;width:96%;vertical-align:bottom;}
+	.ftr-2{float:none;width:96%;align:center;}
+	.ftr-3{float:none;width:96%;vertical-align:bottom;}
+	table.t_example{width:auto;word-break:break-all;background-color:#E0E0F7}
+}
+@media only screen and (max-width : 600px),
+only screen and (max-device-width : 600px){
+	table {width:auto;}
+	table img {width:100%;}
+	table.tab2 {width:auto;}
+	table.table-link img {width:auto;}
+	#ads2{display:none;}
+}
+@media only screen and (max-width : 1249px),
+only screen and (max-device-width : 1249px){
+    table{word-wrap:break-word;overflow-wrap:break-word;word-break:break-word}
+}
